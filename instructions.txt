@@ -82,7 +82,7 @@ the field, especially software code that is created in module fashion, then spre
 around to different developers which use in order to save time during developing
 and don't know what the code really does. You can go ahead and look at cyber-related
 news like CYWARE, TheHackerNews or TheRegister...go ahead...I'll wait. Spend a week
-looking at some news reports and then you�ll see what I mean.
+looking at some news reports and then you'll see what I mean.
 
 Forth case: Slowing you down.
 
@@ -97,7 +97,7 @@ it then don't do it. Again, you and I are not important targets, companies and
 government agencies are.
 
 Apple, Samsung and Tesla are the latest to be caught slowing their hardware down
-with the excuse of trying to help your battery to last longer or in Tesla�s case,
+with the excuse of trying to help your battery to last longer or in Tesla's case,
 because you didn't pay the premium. If that's the case Apple, then let me replace
 the battery and not the entire $600 device. No?! Then I'll stick with Android,
 thanks.
@@ -105,7 +105,7 @@ thanks.
 So, there it is. I have never updated or patched any of my computers. Not XP, not
 Windows 7, 8, 8.1 or 10. But, I have however updated my only Linux computer and
 before you start losing your mind, let me explain. With Linux I have never had a
-problem with any slowing of hardware after an update or a program that I�ve used
+problem with any slowing of hardware after an update or a program that I've used
 suddenly is no longer supported, no longer developed, or the program changed formats
 on me like Microsoft programs tend to do. That Linux system is five years old and
 still working like a charm.
