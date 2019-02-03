@@ -73,8 +73,8 @@ Third case: Backdoors.
 
 This one is not just my imagination people...nope...it's something that have been in
 the news several times through the years. Hard drives or motherboards that come from
-the manufacturer with hidden code�that no one knows how they got there and no news
-agency do a follow-up about, allowing backdoors to systems.
+the manufacturer with hidden code--which no one knows how it got there and no news
+agency do a follow-up report about---allowing backdoors to systems.
 
 Law agencies requesting backdoor access to smartphones and other smart-devices is
 a yearly occurrence. It's not just me, ok...it's a real thing happening all over
@@ -98,8 +98,8 @@ government agencies are.
 
 Apple, Samsung and Tesla are the latest to be caught slowing their hardware down
 with the excuse of trying to help your battery to last longer or in Tesla�s case,
-because you didn�t pay the premium. If that�s the case Apple, then let me replace
-the battery and not the entire $600 device. No?! Then I�ll stick with Android,
+because you didn't pay the premium. If that's the case Apple, then let me replace
+the battery and not the entire $600 device. No?! Then I'll stick with Android,
 thanks.
 
 So, there it is. I have never updated or patched any of my computers. Not XP, not
