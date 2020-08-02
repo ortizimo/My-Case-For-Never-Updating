@@ -1,42 +1,42 @@
-********************************************************
+﻿********************************************************
 Straightforward Training™
 My Case for Never Updating/Upgrading
 Author: Saulo S. Ortiz
 Date: 20190131
-Update: 20190202
+Update: 20200802
 ********************************************************
 
 DISCLAIMER:
 Not responsible for corrupt or loss of data. Steps have been verified multiple
-times.
+times for over 20 years.
 
-You may be asking yourself; what in the hell is this guy talking about?! Haven't
-this idiot heard of (insert latest world-ending, apocalyptic cyber threat here)?!
+You may be asking yourself; what the hell is this guy talking about?! Haven't
+this idiot heard of (insert-latest-world-ending, apocalyptic-super-cyber-threat-here)?!
 We'll yes, yes I have, every day in fact.
 
 Part of my duties at work is to find the latest cyber-threats around the world to
-brief the big bosses, so I'm plenty aware of all the threats and what is next to
-come. But listen, you and I are not targets, we are not that important to anyone;
-unless you're a CEO or CFO, own a company affiliated with banks, the stock market
-or have some juicy government contract, otherwise, you're not an important target
-for anyone. Unless you call going to your local cafe and jumping on their network
-without a VPN--which is a big no-no--a high-spy thriller life.
+brief the big wigs in a non-technical manner, so I'm plenty aware of all the threats and
+what is next to come. But listen, you and I are not targets, we are not that important to
+anyone; unless you're a CEO or CFO, own a company affiliated with banks, the stock market
+or have some juicy government contract, otherwise, you're not an important target for
+anyone. And no, going to your local cafe and jumping on their network without a
+VPN is not a high-spy thriller life.
 
 So why am I telling you never to update your operating system or programs? I'm
-not. I'm just telling why I have never updated or patch my Windows computers.
-There are several reasons why, which I'll here cover soon, but just to let you
-know, I have never, EVER updated my operating system...not once starting with
-Windows XP SP2. And yes you'll be saying, but Sal...SP2 is an update! Yes it is,
-but SP2 actually fixed a lot of limitations XP SP1 had and not security patches
-due to a zero-day exploit. Security updates and critical patches never made it
-to any of the multiple systems I've own throughout the years and I'll tell you why.
+not. I'm just telling why I have never updated or patch my Windows OS or programs I use.
+There are several reasons why, which I'll here cover soon, but just to let you know, I
+have never, EVER updated my operating systems...not once starting with Windows XP SP2. And
+yes you'll be saying, but Sal...SP2 is an update! Yes it is,but SP2 actually fixed a lot
+of limitations XP SP1 had and not major security patches due to a zero-day exploits. Security
+updates and critical patches never made it to any of my systems throughout the years and I'll
+tell you why now.
 
 First case: Unsupported Software.
 
-The first things I've noticed throughout my 25+ years of fixing and troubleshooting
-computers is that when you update you not only "fix" problems that may or may not
-actually affect you, but sometimes the updates do more than just fix the issues...
-they make new ones.
+The first things I've noticed throughout my 25+ years of fixing and SOHO
+networks and troubleshooting computers is that when you update you not only "fix"
+problems that may or may not actually affect you, but sometimes the updates do
+more than just fix the issues...they create new ones.
 
 Have you ever seen a program that no longer works after an update of the operating
 system? No? Have you heard of the Apple iPad? Yeah you have! Every time Apple decides
@@ -47,8 +47,13 @@ give up trying to catch up and your favorite software is no longer carried.
 
 And other times, you may have to buy it again, but that is not only something Apple
 does, Microsoft is also known to have done this as well as other manufacturers.
-Additionally, some software developers have also been known to try the no-longer-supported
-trap that makes you buy that application you've been using free for years.
+Additionally, some software developers have also been known to try the no-longer
+-supported trap that makes you buy that application you've been using free for years.
+
+I've had some issues with these with Windows programs. One day they decide to update
+and now I need to pay for something that was free or have an account for some stupid
+reason for a program that is in my own hard drive. All they did was "fix bugs", or
+update the GUI. Nothing really was needed. Maybe it looked boring, but it worked.
 
 Second case: Format no longer supported.
 
@@ -71,36 +76,18 @@ or later.
 
 Third case: Backdoors.
 
-This one is not just my imagination people...nope...it's something that have been in
-the news several times through the years. Hard drives or motherboards that come from
-the manufacturer with hidden code--which no one knows how it got there and no news
-agency do a follow-up report about---allowing backdoors to systems.
+This one is not just me people...nope...it's something real that has been in the news several
+times through the years. Hard drives or motherboards that come from the manufacturer with
+hidden code (Samsung), to which no one knows how it got there and no news agency does a
+follow-up report about and one that allows backdoors to millions of computers.
 
 Law agencies requesting backdoor access to smartphones and other smart-devices is
-a yearly occurrence. It's not just me, ok...it's a real thing happening all over
-the field, especially software code that is created in module fashion, then spread
-around to different developers which use in order to save time during developing
-and don't know what the code really does. You can go ahead and look at cyber-related
-news like CYWARE, TheHackerNews or TheRegister...go ahead...I'll wait. Spend a week
-looking at some news reports and then you'll see what I mean.
-
-Forth case: Slowing you down.
-
-Another issue that many technology manufacturers are doing now is slowing your
-hardware down so you'll end up upgrading. There is nothing wrong with your five
-year old smartphone for example, this is just the effects of latest "security
-update" that all the TV news are losing their ignorant minds about. You know, the
-one that if you don't do it now, you're entire life will disappear into a
-cyber-black-hole of binary 1s and 0s, and hackers will own your house, cat and
-first child...so YOU MUST DO IT RIGHT NOW!!! Well, not really...and if you can help
-it then don't do it. Again, you and I are not important targets, companies and
-government agencies are.
-
-Apple, Samsung and Tesla are the latest to be caught slowing their hardware down
-with the excuse of trying to help your battery to last longer or in Tesla's case,
-because you didn't pay the premium. If that's the case Apple, then let me replace
-the battery and not the entire $600 device. No?! Then I'll stick with Android,
-thanks.
+a yearly occurrence. It's not just me, it's a real thing happening all over
+the field, especially software code that is created in module fashion, then used by
+different developers which use it in order to save time during their developing
+but don't know what the code really does. You can go ahead and look at cyber-related
+news like CYWARE, Googlenews, TheHackerNews or TheRegister...go ahead...I'll wait. Spend a
+week looking at some news reports and then you'll see what I mean.
 
 So, there it is. I have never updated or patched any of my computers. Not XP, not
 Windows 7, 8, 8.1 or 10. But, I have however updated my only Linux computer and
@@ -119,30 +106,33 @@ my PayPal account and withdraw my $17.09 left in balance.
 
 One last thing before I close.
 
-So remember I mention to keep backups of your software? Yes, definitely do that.
+Remember I mention to keep backups of your software? Yes, definitely do that.
 When I download a free program that I get lots of productivity from I always back
 them up. I create a monthly or quarterly backup of all programs I've used since
 Windows 95 and still have them all just in case. But do I update them? First, I have
 to check what the updates "fix" or does for me. Is the update going to give me
 something that I need or is it just to fix something on it to be more compatible
 with the next update of the operating system (i.e. Windows 10 fix, but you're
-running Windows 7).  Then the answer is no, I will not update.
+running Windows 7). Then the answer is no, I will not update.
 
 Also, if you read the list of changes on any given program and it reads "several
 bug fixes" then be wary because they're not being specific as to what they did.
 It may not be anything, but it could be code for "we now have a backdoor to you."
 On that same note, stay away from programs that all of a sudden now need an account
 for them to work on YOUR computer. Prior to 2015, nothing needed an account to run
-from your own hard drive and having an account could provide a nice backdoor to you
-through cookies or a through an open port in the firewall that is always on in the
-background and as a service. FYI, to catch sneaky programs like these that like to
-connect to a server somewhere in the world while in the background use Glassware
-...yep, it's free.
+from YOUR OWN hard drive and having an account provides a nice backdoor to you
+through cookies or a through an open port on the firewall and one way to maintain
+persistence is to have a service that is always on in the background. FYI, to catch
+sneaky programs like these that like to connect to a server somewhere in the world
+while in the background use Glassware and it's free.
 
 PS,
-Forgot to mention this. I do not update my third party programs that run perfect
-for me and give me no issues, but if you have a program that gives you issues then
-look to see it's good for you to update them. I do not update any Microsoft programs
-or utilities just in case they break and no longer work. For me, my setup is perfect
-and I feel I do not need to introduce more problems to my life by "updating" them,
-but that's my two-cents. Your two-cents may differ.
+I do not update my third party programs which run perfect for me and give me no
+issues (Case #1), but if you have a program that gives you problems then look to see
+if it's good for you to update them. Go to their website and check the changes made.
+Also save all your software. Get in the habit of doing this. Back them up because one
+day they may no longer be available for your OS or be free.
+
+Finally, I recommend stopping any programs from making callback for updates unless your
+want to. Use firewall rules, Glasswire which makes Firewall rules for you, or better yet
+block them with your HOSTS file. More on this on another post.
